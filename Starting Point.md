@@ -25,7 +25,7 @@ Computers don't actually understand website names like `google.com`; they only u
 ### 3. The Processing (The Server & Database)
 Your request lands on a **Server**—which is just a powerful computer sitting in a data center somewhere, running code 24/7. 
 * The server reads your request, decides what to do with it, and talks to a **Database** if it needs to grab or save any saved info (like your password or post history). 
-* *To see how we handle this behind-the-scenes logic, check out:* [[Backend Systems]]
+* *To see how we handle this behind-the-scenes logic, check out:* [Backend Systems and Server-Side Architecture](Backend%20Systems%20and%20Server-Side%20Architecture)
 
 ### 4. The Response
 Once the server figures everything out, it packages the data into an **HTTP Response** (usually alongside a status code, like the famous `404 Not Found` or `200 OK` which means everything went perfectly). It shoots that data back to your browser, which instantly reads it and paints the website onto your screen.
@@ -37,7 +37,7 @@ Once the server figures everything out, it packages the data into an **HTTP Resp
 Ready to see how these pieces are actually built? Click on any of these links to explore a specific topic:
 
 * **[[Frontend Architecture]]** – The visual side. HTML, CSS, JavaScript, and how we build things users can see and click.
-* **[[Backend Systems]]** – The hidden brain. How servers process information, handle data, and talk to databases.
+* **[[Backend Systems and Server-Side Architecture]]** – The hidden brain. How servers process information, handle data, and talk to databases.
 * **[[Microservices & Distribution]]** – How big tech companies break one giant app into smaller, tiny apps that talk to each other so the site never crashes.
 * **[[Security Foundations]]** – The basics of keeping things safe, handling logins, and protecting user data.
 

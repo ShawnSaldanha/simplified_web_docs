@@ -76,5 +76,5 @@ The frontend talks to the backend using something called an **API (Application P
 
 ##  Where to Go From Here?
 
-* To understand how the backend processes those requests and sends back that JSON data, head over to **[[Backend Systems]]**.
+* To understand how the backend processes those requests and sends back that JSON data, head over to [Backend Systems and Server-Side Architecture](Backend%20Systems%20and%20Server-Side%20Architecture.md).
 * To see how we protect that data while it travels through the air, check out **[[Security Foundations]]**.
