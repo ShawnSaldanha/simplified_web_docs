@@ -16,7 +16,7 @@ Whenever you tap a button on an app or type a website name into your browser, a 
 The **Client** is the device or app you are looking at right now—like your phone, a laptop, or a web browser (Chrome, Safari, etc.). 
 * When you click a link, the client packages your action into a message called an **HTTP Request**. 
 * Think of it like ordering food at a restaurant. You are telling the kitchen, *"Hey, please show me my profile page."*
-* *To see how we build this visual layer, check out:* [[Frontend Architecture]]
+* *To see how we build this visual layer, check out:* [Frontend Architecture](Frontend%20Architecture.md)
 
 ### 2. The Delivery Guy (DNS & Routing)
 Computers don't actually understand website names like `google.com`; they only understand numbers called **IP Addresses** (like `142.250.190.46`). 
