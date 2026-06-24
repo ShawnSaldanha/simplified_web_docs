@@ -1,4 +1,4 @@
-# 🗺️ Welcome to the Web Development Map
+# Welcome to the Web Development Map
 
 Hey! If you're looking to understand how the web actually works without drowning in a sea of intense computer science jargon, you are in the right place. 
 
@@ -6,7 +6,7 @@ Instead of a massive, boring textbook, this guide is built like a web of connect
 
 ---
 
-## 🌐 The Big Picture: The Internet in 30 Seconds
+## The Big Picture: The Internet in 30 Seconds
 
 At its absolute core, the entire internet is just a massive, ongoing game of catch between two things: **The Client** and **The Server**. 
 
@@ -32,7 +32,7 @@ Once the server figures everything out, it packages the data into an **HTTP Resp
 
 ---
 
-## 🛠️ Choose Your Path
+## Choose Your Path
 
 Ready to see how these pieces are actually built? Click on any of these links to explore a specific topic:
 
@@ -42,3 +42,5 @@ Ready to see how these pieces are actually built? Click on any of these links to
 * **[[Security Foundations]]** – The basics of keeping things safe, handling logins, and protecting user data.
 
 ---
+## Note
+You may use [mdn web docs](https://developer.mozilla.org/en-US/) to learn more about HTML , CSS and JS along with web API's and tools
