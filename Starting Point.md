@@ -43,4 +43,4 @@ Ready to see how these pieces are actually built? Click on any of these links to
 
 ---
 ## Note
-You may use [mdn web docs](https://developer.mozilla.org/en-US/) to learn more about HTML , CSS and JS along with web API's and tools
+You may use [mdn web docs](https://developer.mozilla.org/en-US/) to learn more about HTML , CSS and JS along with web API's and tools.
