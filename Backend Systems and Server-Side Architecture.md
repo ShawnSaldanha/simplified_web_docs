@@ -52,3 +52,14 @@ For example, when a client calls a `GET /api/users/1` endpoint, the backend proc
   "email": "jdoe@university.edu",
   "isActive": true
 }
+```
+
+---
+### Understanding the Structure of the Backend
+Usually when we think about a backend server , we know that there will be certain kinds of requests like GET , POST , PATCH , PUT , DELETE . Now , there should be some URL or a route where you send these requests . Lets talk about these aspects now 
+#### HTTP Methods
+You might have already read about the HTTP methods above in this document . Lets talk about how things work in the development environment . Usually , we have the base URL to be http://localhost:<BACKEND_PORT_NUMBER> which is the base and then usually we design the API's either using a /api route or directly based on how the API versioning is done , which will be addressed later in this document .
+
+
+---
+So , since we did the backend development part in Java , i would suggest you to learn [Core Java Concepts](Core%20Java%20Concepts.md) first and then the [Spring/SpringBoot Framework](SpringFramework.md).
