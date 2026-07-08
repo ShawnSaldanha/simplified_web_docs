@@ -41,7 +41,7 @@ References
 [Next.js](https://nextjs.org/learn/dashboard-app)
 [Angular](https://angular.dev/tutorials/learn-angular)
 
-Moreover , usually we don not build components from scratch always instead we use the approach of using readymade components and then tweaking them if theres a need , i'll be attaching a few of the famous UI component libraries for Next.js for better understanding and reference
+Moreover , usually we do not build components from scratch always instead we use the approach of using readymade components and then tweaking them if theres a need , i'll be attaching a few of the famous UI component libraries for Next.js for better understanding and reference
 [MaterialUI](https://mui.com/material-ui/all-components/)
 [ShadCN](https://ui.shadcn.com/docs/components)
 **NOTE** : *These are just for reference there are many more such libraries with really good components*
