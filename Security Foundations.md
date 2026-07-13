@@ -86,6 +86,4 @@ This section is divided into the following topics:
     
 - [[CORS]] – Understanding why browsers block certain cross-origin requests and how servers allow trusted clients.
     
-- [[SQL Injection]] – One of the most common database attacks and how developers prevent it.
-    
 - [[OAuth 2.0 & Social Login]] – How applications let users sign in with services like Google or GitHub without sharing passwords.
