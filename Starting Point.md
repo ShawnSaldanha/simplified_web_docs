@@ -38,7 +38,7 @@ Ready to see how these pieces are actually built? Click on any of these links to
 
 * [Frontend Architecture](Frontend%20Architecture.md) – The visual side. HTML, CSS, JavaScript, and how we build things users can see and click.
 * [Backend Systems and Server-Side Architecture](Backend%20Systems%20and%20Server-Side%20Architecture.md) – The hidden brain. How servers process information, handle data, and talk to databases.
-* **[[Microservices & Distribution]]** – How big tech companies break one giant app into smaller, tiny apps that talk to each other so the site never crashes.
+* **[[Microservices & Distributed Systems]]** – How big tech companies break one giant app into smaller, tiny apps that talk to each other so the site never crashes.
 * **[[Security Foundations]]** – The basics of keeping things safe, handling logins, and protecting user data.
 
 ---
