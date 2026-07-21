@@ -5,6 +5,9 @@ Unlike a traditional monolithic application, each microservice is responsible fo
 
 During our internship, we worked on a distributed microservices application built with **Spring Boot** and **Spring Cloud**, where multiple backend services collaborated to provide a single application. Through this project, we learned how individual microservices are structured, how services discover and communicate with one another, how requests are routed through an API Gateway, how asynchronous communication is achieved using event-driven messaging, and how production systems are monitored and deployed using modern DevOps tools.
 
+Throughout this section, we'll use our AutoSentry project as a running example to explain the concepts discussed. If you'd like to see how these ideas are implemented in practice, you can explore the project here:
+**GitHub:** https://github.com/SujithKumar-Codes/autosentry
+
 In this section, we'll explore the core concepts behind building and operating a distributed microservices application, beginning with the motivation behind microservices and progressing through service architecture, communication, monitoring, and deployment.
 
 ---

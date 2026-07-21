@@ -8,7 +8,7 @@ This means that **microservices don't work in isolation—they frequently need t
 
 ## Why Do Services Need to Communicate?
 
-Let's take our project where users can register their vehicles as an example.
+Let's take our Autosentry project as an example.
 
 Imagine a request like this:
 
