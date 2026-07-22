@@ -502,3 +502,5 @@ public class OrderProcessor {
     }
 }
 ```
+
+Now that we've covered how a backend application is structured and how requests are processed, the next step is understanding **how we actually build these backend applications in Java**. While it's possible to build everything using plain Java, it quickly becomes repetitive and difficult to maintain as applications grow. This is where the **[[Spring Framework]]** comes in, providing a simpler and more organized way to build robust Java applications.
