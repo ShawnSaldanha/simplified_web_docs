@@ -1,4 +1,3 @@
-
 Modern applications often need to support thousands or even millions of users while remaining reliable, scalable, and easy to maintain. As applications grow, managing all functionality within a single codebase can become increasingly difficult. To address these challenges, many organizations adopt a **microservices architecture**, where an application is divided into multiple smaller services that work together over a network.
 
 Unlike a traditional monolithic application, each microservice is responsible for a specific business capability, such as user management, payments, notifications, or inventory. Since these services operate independently, they must communicate with one another, discover each other's locations, and remain observable when running in production. This introduces several architectural patterns and tools that help build robust distributed systems.
