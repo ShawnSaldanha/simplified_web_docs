@@ -478,8 +478,10 @@ Instead of spending time configuring infrastructure, developers can immediately 
 
 # What's Next?
 
-Now that we've learned how Spring Boot simplifies Java backend development, we're ready to explore how multiple Spring Boot applications can work together to build scalable distributed systems.
+Now that we've learned how Spring Boot simplifies Java backend development, we can build applications that receive requests, process business logic, and interact with databases.
 
-In one of our project called Autosentry, each microservice is an independent Spring Boot application. These services communicate with one another using technologies like API Gateway, Eureka, and Kafka to form a complete microservices architecture.
+However, real-world applications don't always work perfectly. Users may request resources that don't exist, send invalid data, or unexpected errors may occur while processing a request. Instead of crashing or returning confusing responses, our applications should handle these situations gracefully.
 
-Continue to **[[Microservices & Distributed Systems]]**.
+In the next section, we'll learn how Java and Spring Boot handle errors using **Exception Handling**, including custom exceptions and global exception handlers that keep our APIs clean, consistent, and easier to maintain.
+
+Continue to **[[Exception Handling]]**.
