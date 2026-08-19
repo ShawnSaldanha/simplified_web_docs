@@ -1,5 +1,7 @@
 # Advanced JavaScript Topics
-**NOTE** : To get more in-depth about all these please refer to [mdn web docs](https://developer.mozilla.org/en-US/)
+- **NOTE :** *Some content with respect to node.js can be found at [nodejs](nodeJs.md)*
+- **NOTE** : To get more in-depth about all these please refer to [mdn web docs](https://developer.mozilla.org/en-US/).
+
 ## Rest Operator
 - It collects multiple values into an object or an Array
 - It is passed as an argument to a function
