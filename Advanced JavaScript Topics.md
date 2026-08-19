@@ -1,5 +1,5 @@
 # Advanced JavaScript Topics
-- **NOTE :** *Some content with respect to node.js can be found at [nodejs](nodeJs.md)*
+- **NOTE :** *Some content with respect to node.js can be found at [nodejs](NodeJs.md)*
 - **NOTE** : To get more in-depth about all these please refer to [mdn web docs](https://developer.mozilla.org/en-US/).
 
 ## Rest Operator
